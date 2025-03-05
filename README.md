@@ -16,12 +16,18 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Añad
 ## :hammer: Funcionalidades del proyecto
 
 1. `Agregar Amigos`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
-   ![imagen agregar amigos](assets/foto_amigo_secreto.JPG)
    
 2. `Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido. Si se ingresa un solo nombre o se repiten nombres, se mostrará una alerta correspondiente.
    
+   ![imagen agregar amigos](assets/captura_1.png)
+   
 3. `Visualizar lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+
+   ![imagen agregar amigos](assets/captura_2.png)
+   
 4. `Sortear Amigos`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+   ![imagen agregar amigos](assets/captura_3.png)
    
-5. `Nuevo Juego`: Al presionar este botón, todos los nombres previamente escritos y mostrados en pantalla se borrarán, permitiendo iniciar un "Nuevo Sorteo".
-   
+7. `Nuevo Juego`: Al presionar este botón, todos los nombres previamente escritos y mostrados en pantalla se borrarán, permitiendo iniciar un "Nuevo Sorteo".
+   ![imagen agregar amigos](assets/captura_5.png)
