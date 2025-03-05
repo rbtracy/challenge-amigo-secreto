@@ -16,18 +16,37 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Añad
 ## :hammer: Funcionalidades del proyecto
 
 1. `Agregar Amigos`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
+
+   ![imagen agregar amigos](assets/imagen1.png)
+
    
 2. `Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido. Si se ingresa un solo nombre o se repiten nombres, se mostrará una alerta correspondiente.
    
    ![imagen agregar amigos](assets/captura_1.png)
+   ![](assets/otro1.png)
+   ![](assets/otro2.png)
+   ![](assets/otro3.png)
+
    
 3. `Visualizar lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
-
+   
    ![imagen agregar amigos](assets/captura_2.png)
+   ![imagen agregar amigos](assets/imagen2.png)
+
    
 4. `Sortear Amigos`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
    ![imagen agregar amigos](assets/captura_3.png)
+   ![imagen](assets/imagen3.png)
+
    
-7. `Nuevo Juego`: Al presionar este botón, todos los nombres previamente escritos y mostrados en pantalla se borrarán, permitiendo iniciar un "Nuevo Sorteo".
+5. `Nuevo Juego`: Al presionar este botón, todos los nombres previamente escritos y mostrados en pantalla se borrarán, permitiendo iniciar un "Nuevo Sorteo".
    ![imagen agregar amigos](assets/captura_5.png)
+   ![imagen sortear amigos](assets/imagen4.png)
+
+
+6. `Limpiar input`: Esta función limpia automáticamente la caja de texto después de ingresar un nombre.
+   ![imagen agregar amigos](assets/captura_4.png)
+
+
+## :hammer: 
